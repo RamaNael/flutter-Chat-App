@@ -97,7 +97,7 @@ flutter run
 - Firebase Cloud Messaging (FCM)
 - Firebase Cloud Functions
 - Real-time messaging
-- Image upload and profile management
+- Image upload
 
 ---
 
