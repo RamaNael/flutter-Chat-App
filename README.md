@@ -17,7 +17,6 @@ The project demonstrates Firebase integration, real-time communication, and resp
 - Profile Image Upload
 - Firebase Cloud Storage
 - Push Notifications (FCM)
-- Responsive User Interface
 - Logout
 
 ---
