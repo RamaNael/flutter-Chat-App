@@ -44,20 +44,6 @@ The application uses Firebase services for authentication, cloud storage, real-t
 
 ---
 
-## 🏗️ Architecture
-
-The application follows a modular Flutter architecture with separation between:
-
-- UI Layer
-- Business Logic
-- Data Layer
-- Firebase Services
-- Cloud Functions
-
-This structure improves maintainability and scalability.
-
----
-
 ## 📱 Application Screenshots
 
 | Login | Sign Up | Chat |
