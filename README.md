@@ -62,7 +62,7 @@ This structure improves maintainability and scalability.
 
 | Login | Sign Up | Chat |
 |--------|---------|------|
-| ![](screenshots/login.png) | ![](screenshots/signup.png) | ![](screenshots/chat.png) |
+| ![](LoginPage.jpg) | ![](SignUpPage.jpg) | ![](chatPage.jpg) |
 
 ---
 
